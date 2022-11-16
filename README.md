@@ -16,6 +16,6 @@ After everything is installed run "node server.js" in the terminal. This will bo
 ## Links
 [Repo](https://github.com/WilliamHirschh/Note-Taker)
 
-[Deployed Aplication](https://williamhirschh.github.io/Note-Taker/)
+[Deployed Aplication](https://serene-tor-41744.herokuapp.com)
 ## License
 MIT License 
