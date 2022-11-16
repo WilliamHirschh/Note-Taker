@@ -12,5 +12,9 @@ After everything is installed run "node server.js" in the terminal. This will bo
 ## Screen Shots
 
 
+## Links
+[Repo](https://github.com/WilliamHirschh/Note-Taker)
+
+[Deployed Aplication](https://williamhirschh.github.io/Note-Taker/)
 ## License
 MIT License 
